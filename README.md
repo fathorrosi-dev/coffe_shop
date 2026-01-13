@@ -6,6 +6,8 @@
 
 > A beautiful and intuitive Flutter application for browsing, customizing, and purchasing premium coffee beverages.
 
+<img src="mockup.png" />
+
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
